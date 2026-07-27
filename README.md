@@ -1,4 +1,4 @@
-# Tzichecker Feature List [English Verison]
+# Tzichecker Feature List
 
 ## Core
 
@@ -6,6 +6,7 @@
 - AutoCombo (automatically loads new combos while running)
 
 ##freekey
+Each key supports up to 50 devices. If you are unable to log in, please switch to a different key.
 
 ```
 free3F6C22AA69F7499A84A829CB56CB19AB
