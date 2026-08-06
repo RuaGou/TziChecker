@@ -48,6 +48,8 @@ freeFD18ABA1BEDD44CD95838B4EB80FF8AA
 - IMAP 邮箱验证
 - BIP-39 助记词扫描
 - 多链钱包余额查询（BTC / ETH / LTC / DOGE / TRX / SOL + 代币）
+- DonutSMP 数据检测（金币/碎片/游戏时间/击杀等）
+- DonutSMP AutoPay（自动转账金币）
 
 ## 自动化
 
