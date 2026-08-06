@@ -50,6 +50,8 @@ freeFD18ABA1BEDD44CD95838B4EB80FF8AA
 - IMAP email verification
 - BIP-39 mnemonic phrase scanning
 - Multi-chain wallet balance query (BTC / ETH / LTC / DOGE / TRX / SOL + tokens)
+- DonutSMP Data Check (Coins/Shards/Playtime/Kills, etc.)
+- DonutSMP AutoPay (Automatic coin transfers)
 
 ## Automation
 
